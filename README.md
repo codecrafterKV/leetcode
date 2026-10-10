@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/codecrafterKV/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/codecrafterKV/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/codecrafterKV/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/codecrafterKV/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/codecrafterKV/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/codecrafterKV/leetcode/tree/master/0912-sort-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/codecrafterKV/leetcode/tree/master/1480-running-sum-of-1d-array) |
