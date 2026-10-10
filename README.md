@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/codecrafterKV/leetcode/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/codecrafterKV/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codecrafterKV/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0704-binary-search](https://github.com/codecrafterKV/leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/codecrafterKV/leetcode/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/codecrafterKV/leetcode/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/codecrafterKV/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/codecrafterKV/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
