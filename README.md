@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/codecrafterKV/leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/codecrafterKV/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/codecrafterKV/leetcode/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/codecrafterKV/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/codecrafterKV/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/codecrafterKV/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/codecrafterKV/leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
@@ -64,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/codecrafterKV/leetcode/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/codecrafterKV/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/codecrafterKV/leetcode/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codecrafterKV/leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codecrafterKV/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/codecrafterKV/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
